@@ -6,9 +6,6 @@ This repository contains the completed work for the Computer Architecture assign
 
 Repository link: https://github.com/andersonericlopes-electronics/comp-arch-project
 
-## Assignment Context
-
-The assignment is worth 60 marks in total, with regular questions carrying 40 marks and two bonus challenge questions carrying 20 marks. The work in this repository documents the implementation, experimental results, and simulator configuration changes needed to complete the assignment.
 
 ## What Is Included
 
